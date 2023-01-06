@@ -1,0 +1,10 @@
+
+==========================
+    Nota of the shop
+==========================
+- Your item name        :EXO Digipack
+- Your item price       :320.0
+- Your item quantity    :2.0
+- Your total of money   :500.0
+- Your total of channge : IDR-140.0
+===========================
